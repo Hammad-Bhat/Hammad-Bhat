@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hammad-Bhat
-- 👀 I’m interested in programming. 
+- 👀 I’m interested in coding. 
 - 🌱 I’m currently learning C. 
 - 📫 How to reach me 
      hammadfarooq250@gmail.com 
